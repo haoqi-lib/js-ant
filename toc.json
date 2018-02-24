@@ -18,5 +18,9 @@
   {
     "episodeId": "005-math",
     "title": "数字和运算符"
+  },
+  {
+    "episodeId": "006-string",
+    "title": "字符串"
   }
 ]
