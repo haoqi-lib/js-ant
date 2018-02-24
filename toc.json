@@ -2,5 +2,9 @@
   {
     "episodeId": "001-array-methods",
     "title": "数组方法大全"
+  },
+  {
+    "episodeId": "002-js-what",
+    "title": "什么是 Javascript ？"
   }
 ]
