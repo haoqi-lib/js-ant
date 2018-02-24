@@ -21,7 +21,7 @@ button.onclick = function() {
 
 我们说，变量是用来存储数值的，那么有一个重要的概念需要区分。变量不是数值本身，它们仅仅是一个用于存储数值的容器。你可以把变量想象成一个个用来装东西的纸箱子。
 
-![](003-boxes.png)
+![](https://raw.githubusercontent.com/haoqi-lib/js-ant/master/img/003-boxes.png)
 
 ## 声明变量
 

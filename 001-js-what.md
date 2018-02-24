@@ -4,7 +4,7 @@
 
 JavaScript 是允许你在网页中实现复杂效果的一门编程语言 —— 每次浏览网页时，我们看到的不只是显示静态信息，而是会看到即时更新的内容，交互式的地图，或 2D/3D 图形动画，又或者自动播放视频等，实现这些动态效果，就会用到 JavaScript 。JS 属于 Web 技术的三层蛋糕之一，另外的两个是 HTML 和 CSS 。
 
-![](001-cake.png)
+![](https://raw.githubusercontent.com/haoqi-lib/js-ant/master/img/001-cake.png)
 
 * HTML 是一种标记语言，用来结构化我们的网页内容和赋予内容含义，例如定义段落、标题、和数据表,或在页面中嵌入图片和视频。
 
@@ -28,7 +28,7 @@ APIs 是已经封装好的一套代码组件，目的是让开发者可以实现
 
 API 通常分成两类。
 
-![](./img/002-browser.png)
+![](https://raw.githubusercontent.com/haoqi-lib/js-ant/master/img/002-browser.png)
 
 **浏览器 APIs (Browser APIs)** 浏览器自带的，例如：
 
