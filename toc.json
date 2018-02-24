@@ -1,30 +1,30 @@
 [
   {
-    "episodeId": "001-array-methods",
-    "title": "数组方法大全"
-  },
-  {
-    "episodeId": "002-js-what",
+    "episodeId": "001-js-what",
     "title": "什么是 Javascript ？"
   },
   {
-    "episodeId": "003-js-add",
+    "episodeId": "002-js-add",
     "title": "如何添加 JS 到页面中 ？"
   },
   {
-    "episodeId": "004-variables",
+    "episodeId": "003-variables",
     "title": "变量"
   },
   {
-    "episodeId": "005-math",
+    "episodeId": "004-math",
     "title": "数字和运算符"
   },
   {
-    "episodeId": "006-string",
+    "episodeId": "005-string",
     "title": "字符串"
   },
   {
-    "episodeId": "007-string-methods",
+    "episodeId": "006-string-methods",
     "title": "常用字符串方法"
+  },
+  {
+    "episodeId": "007-array-methods",
+    "title": "数组方法大全"
   }
 ]
