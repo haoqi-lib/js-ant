@@ -6,5 +6,9 @@
   {
     "episodeId": "002-js-what",
     "title": "什么是 Javascript ？"
+  },
+  {
+    "episodeId": "003-js-add",
+    "title": "如何添加 JS 到页面中 ？"
   }
 ]
