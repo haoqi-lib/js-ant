@@ -22,5 +22,9 @@
   {
     "episodeId": "006-string",
     "title": "字符串"
+  },
+  {
+    "episodeId": "007-string-methods",
+    "title": "常用字符串方法"
   }
 ]
