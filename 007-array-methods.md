@@ -28,14 +28,14 @@ fruits.forEach(function(item, index, array) {
 // Banana 1
 ```
 
-### 添加元素到数组的末尾
+## 添加元素到数组的末尾
 
 ```js
 var newLength = fruits.push('Orange')
 // ["Apple", "Banana", "Orange"]
 ```
 
-### 删除数组末尾的元素
+## 删除数组末尾的元素
 
 ```js
 // remove Orange (from the end)
@@ -43,7 +43,7 @@ var last = fruits.pop()
 // ["Apple", "Banana"];
 ```
 
-### 删除数组最前面（头部）的元素
+## 删除数组最前面（头部）的元素
 
 ```js
 // remove Apple from the front
@@ -51,7 +51,7 @@ var first = fruits.shift()
 // ["Banana"];
 ```
 
-### 添加元素到数组的头部
+## 添加元素到数组的头部
 
 ```js
 // add to the front
@@ -59,7 +59,7 @@ var newLength = fruits.unshift('Strawberry')
 // ["Strawberry", "Banana"];
 ```
 
-### 找出某个元素在数组中的索引
+## 找出某个元素在数组中的索引
 
 ```js
 fruits.push('Mango')
@@ -69,7 +69,7 @@ var index = fruits.indexOf('Banana')
 // 1
 ```
 
-### 通过索引删除某个元素
+## 通过索引删除某个元素
 
 ```js
 // this is how to remove an item
@@ -77,7 +77,7 @@ var removedItem = fruits.splice(pos, 1)
 // ["Strawberry", "Mango"]
 ```
 
-### 从一个索引位置删除多个元素
+## 从一个索引位置删除多个元素
 
 ```js
 var vegetables = ['Cabbage', 'Turnip', 'Radish', 'Carrot']
@@ -98,7 +98,7 @@ console.log(removedItems)
 // ["Turnip", "Radish"]
 ```
 
-### 复制一个数组
+## 复制一个数组
 
 ```js
 // this is how to make a copy
@@ -106,7 +106,7 @@ var shallowCopy = fruits.slice()
 // ["Strawberry", "Mango"]
 ```
 
-### 参考资料
+## 参考资料
 
 MDN 上文档的转载
 
